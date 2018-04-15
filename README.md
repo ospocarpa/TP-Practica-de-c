@@ -1,1 +1,1 @@
-# TP-SistemasOperativos-2017-2c
+# TP-Para practicar c
